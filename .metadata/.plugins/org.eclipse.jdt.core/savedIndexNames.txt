@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\MEDAC_T\Desktop\PRÁCTICA 1. Depuración, testing y git ANNABEL\.metadata\.plugins\org.eclipse.jdt.core
+2357524285.index
+489246365.index
+1865797976.index
