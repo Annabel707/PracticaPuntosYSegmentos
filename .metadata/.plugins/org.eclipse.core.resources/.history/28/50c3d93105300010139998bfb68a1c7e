@@ -1,0 +1,48 @@
+package clases;
+
+public class Punto {
+int x;
+int y;
+
+
+/**
+ * Crea un punto con las coordenadas x e y especificadas
+ * @param x
+ * @param y
+ */
+public Punto (int x,int y ) {
+	this.x=x;
+	this.y=y;
+}
+
+/**
+ * Crea un punto con las coordenadas x e y especificados para que comience en cero
+ */
+
+public Punto() {
+	this.x=0;
+	this.y=0;
+}
+
+public void setx(int x) {
+	this.x = x;
+}
+
+public void sety(int y) {
+	this.y = y;
+}
+
+public double getx() {
+	return this.x;
+}
+
+public double gety() {
+	return this.y;
+}
+
+public String toString() {
+	return "( " + this.x + " , " + this.y + " )";
+}
+
+
+}
